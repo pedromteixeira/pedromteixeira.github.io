@@ -1,6 +1,6 @@
-baseurl: "/teste"
+baseurl: "/dev"
 permalink: pretty
-title: "Jekyll Atlantic"
+title: "Teste"
 collections_dir: collections
 markdown: kramdown
 highlighter: rouge
