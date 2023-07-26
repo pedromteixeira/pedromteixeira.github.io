@@ -2,9 +2,9 @@ name: Jekyll site CI
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   build:
@@ -21,7 +21,7 @@ jobs:
       with:
         valueFile: '_config.yml'
         propertyPath: 'baseurl'
-        value: /jekyll-atlantic-theme/
+        value: ~
         commitChange: false
         updateFile: true
       
