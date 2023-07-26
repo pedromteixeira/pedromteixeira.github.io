@@ -1,4 +1,4 @@
-baseurl: "/dev"
+baseurl: "/"
 permalink: pretty
 title: "Teste"
 collections_dir: collections
