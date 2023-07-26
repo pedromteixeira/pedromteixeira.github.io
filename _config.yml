@@ -1,6 +1,6 @@
 baseurl: "/"
 permalink: pretty
-title: "Teste"
+title: "Pedro"
 collections_dir: collections
 markdown: kramdown
 highlighter: rouge
