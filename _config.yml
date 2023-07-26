@@ -1,4 +1,4 @@
-baseurl: "/"
+baseurl: "/atlantic_template"
 permalink: pretty
 title: "Pedro"
 collections_dir: collections
